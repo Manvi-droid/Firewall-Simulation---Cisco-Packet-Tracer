@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #  Basic Firewall Simulation using Cisco Packet Tracer
 
 ##  Overview
@@ -72,3 +73,7 @@ This confirms correct implementation of firewall rules.
 - Add NAT (Network Address Translation)  
 - Implement multiple ACL rules for different services  
 - Simulate larger enterprise network  
+=======
+# Firewall-Simulation---Cisco-Packet-Tracer
+A Cisco Packet Tracer project demonstrating network segmentation and firewall implementation using Access Control Lists (ACLs) to control traffic between subnets.
+>>>>>>> c2c2dcb86665061c9a08b887b84a5d568e98d3fb
